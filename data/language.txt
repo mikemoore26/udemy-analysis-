@@ -1,0 +1,1 @@
+wordpress;xsd;Unix;ruby;XML;sql;Javascript;php;css;Adobe;Laravel;python;java;aws;jQuery;perl;xslt;html;Ajax;
